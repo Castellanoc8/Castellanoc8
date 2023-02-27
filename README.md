@@ -10,7 +10,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Castellanoc8/configure-ad)
   - [Understanding and Working with DNS](https://github.com/Castellanoc8/Understanding-and-Working-with-DNS)
   - [Network File Shares and Permissions](https://github.com/Castellanoc8/Network-File-Shares-and-Permissions)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Castellanoc8/azure-network-protocols)
+  
 
 <h2>🤳Connect with me:</h2>
 
