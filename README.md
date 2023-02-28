@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chris, an <a href="https://linkedin.com/in/christopher-castellano-120123265">IT Professional</a>☺</h1>
+<h1>Hi, I'm Chris, an aspiring <a href="https://linkedin.com/in/christopher-castellano-120123265">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
